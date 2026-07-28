@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Balancer.Core/Balancer.Core.csproj" />
+    <Project Path="src/Balancer.Infrastructure/Balancer.Infrastructure.csproj" />
+    <Project Path="src/Balancer.Wpf/Balancer.Wpf.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Balancer.Core.Tests/Balancer.Core.Tests.csproj" />
+    <Project Path="tests/Balancer.Infrastructure.Tests/Balancer.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>
